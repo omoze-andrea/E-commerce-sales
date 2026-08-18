@@ -42,6 +42,6 @@ Welcome! I am an aspiring Data Analyst building my practical skills in Microsoft
 
 ## 📂 Repository Structure
 ```text
+dashboard.gif    # Preview images
 Ecommerce_Sales_Dashboard.xlsx # Live Excel Dashboard file
-dashboard_screenshot.png    # Preview images
 README.md               # Project documentation
