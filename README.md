@@ -5,7 +5,10 @@ Welcome! I am an aspiring Data Analyst building my practical skills in Microsoft
 
 
 ## 📸 Dashboard Preview
-![E-Commerce Sales Dashboard](./E-commerce_Sales_&_Customers_Analytics_Dashboard.gif)
+
+![E-Commerce Sales Dashboard](E-commerce_Sales_&_Customers_Analytics_Dashboard.gif)
+
+
 ---
 
 
