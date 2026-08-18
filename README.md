@@ -1,8 +1,9 @@
 # E-commerce-sales
 
-## 📌 Project Overview
-This Excel-based data analytics project explores e-commerce sales performance, customer demographics, ordering behavior, and shipping efficiency. The objective was to transform raw transactional data into a dynamic, single-page executive dashboard that answers critical business questions at a glance.
+## 📌👤 About This Project
+Welcome! I am an aspiring Data Analyst building my practical skills in Microsoft Excel. This is my **3rd hands-on Excel project**, built by learning and applying concepts from **YouTube data analytics tutorials**. I took a raw e-commerce dataset and transformed it into a clean, single-page executive dashboard to answer key operational and customer questions.
 
+![E-Commerce Sales Dashboard](E-commerce_&_Customer_Analytics_DashboarD.gif)
 ---
 
 ## 🎯 Key Business Questions Addressed
