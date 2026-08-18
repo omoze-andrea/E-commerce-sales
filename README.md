@@ -1,17 +1,14 @@
-# E-commerce-sales
+# E-commerce Sales & Customer Analytics Dashboard
 
 ## 📌👤 About This Project
 Welcome! I am an aspiring Data Analyst building my practical skills in Microsoft Excel. This is my **3rd hands-on Excel project**, built by learning and applying concepts from **YouTube data analytics tutorials**. I took a raw e-commerce dataset and transformed it into a clean, single-page executive dashboard to answer key operational and customer questions.
 
-
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard](E-commerce_Sales_&_Customers_Analytics_Dashboard.gif)
+![E-Commerce Sales Dashboard](./E-commerce_Sales_&_Customers_Analytics_Dashboard.gif)
 
 
 ---
-
-
 ## 🎯 Key Business Questions Addressed
 * **Sales & Volume Trends**: How have sales amounts and order quantities trended over the last 13 weeks?
 * **Customer Purchasing Habits**: Which order channels (App, Website, Instagram, Target.com, Partner App) do different gender demographics prefer?
