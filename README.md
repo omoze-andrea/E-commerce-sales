@@ -3,6 +3,7 @@
 ## 📌👤 About This Project
 Welcome! I am an aspiring Data Analyst building my practical skills in Microsoft Excel. This is my **3rd hands-on Excel project**, built by learning and applying concepts from **YouTube data analytics tutorials**. I took a raw e-commerce dataset and transformed it into a clean, single-page executive dashboard to answer key operational and customer questions.
 
+![E-Commerce Sales Dashboard](./E-commerce_Sales_&_Customer_Analytics_Dashboard.gif)
 ---
 
 ## 🎯 Key Business Questions Addressed
